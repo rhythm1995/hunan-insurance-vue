@@ -1,12 +1,10 @@
 <template>
     <div id="head">
-
+        i am header
     </div>
 </template>
 <style>
-    #head{
-        #20A0FF
-    }
+
 </style>
 <script type="text/ecmascript-6">
 

@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <header></header>
+    <img src="assets/logo.png">
+    i am header
   </div>
 </template>
 
@@ -10,7 +10,7 @@ import header from './components/header/header.vue'
 
 export default {
   components:{
-    hello
+    header
   }
 }
 </script>
